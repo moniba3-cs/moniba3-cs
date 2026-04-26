@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Final-year Computer Science student working on a women safety app using React Native.<br>I'm interested in front-end development and UI/UX design,with experience in FIgma<br>I'm learning python and practising react native and modern UI.
+A comp-sci student
 
 
 ## 🌐 Socials:
