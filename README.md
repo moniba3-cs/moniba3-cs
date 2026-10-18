@@ -18,9 +18,7 @@
 
 ## 💫 About Me
 
-I'm a Computer Science graduate (BS, Government College University, Faisalabad, Pakistan) with a focus on **artificial intelligence, computer vision, and AI security**. I enjoy building complete software systems, and I'm looking to grow into research on reliable and secure AI.
-
-> 🎯 **Currently:** preparing for a Master's degree in AI and AI security.
+I'm a Computer Science graduate with a focus on **artificial intelligence, computer vision, and AI security**. I enjoy building complete software systems, and I'm looking to grow into research on reliable and secure AI.
 
 ## 🔬 Research Interests
 
@@ -81,7 +79,7 @@ I'm open to research collaborations and conversations about AI and security.
 
 <div align="center">
 
-[![Visitors](https://visitcount.itsvg.in/api?id=moniba3-cs&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" width="100%"/>
 
