@@ -1,5 +1,5 @@
 # 💫 About Me:
-A comp-sci student
+Computer Science graduate with a focus on artificial intelligence, computer vision, and AI security. I enjoy building complete software systems and I'm looking to grow into research on reliable and secure AI.
 
 
 ## 🌐 Socials:
